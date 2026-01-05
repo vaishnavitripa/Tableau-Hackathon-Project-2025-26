@@ -1,0 +1,1 @@
+System architecture and integration design<img width="1920" height="1080" alt="Sitemap Whiteboard in Green Purple Basic Style-2" src="https://github.com/user-attachments/assets/d4b87440-631b-4a5a-8d71-4ec37e5d6b7e" />
